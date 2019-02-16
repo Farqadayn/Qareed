@@ -1,5 +1,5 @@
 # Qareed
-Syntactical analysis of the metric pattern and rhyme of Arabic poems.
+Analysis of the metric pattern and rhyme of Arabic poems.
 
 ## Text
 
